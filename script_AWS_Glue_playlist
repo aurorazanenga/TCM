@@ -78,7 +78,7 @@ write_mongo_options = {
     "database": "unibg_tedx",
     "collection": "tedy_data",
     "username": "aurorazanenga",
-    "password": "310314az",
+    "password": "********",
     "ssl": "true",
     "ssl.domain_match": "false"}
 from awsglue.dynamicframe import DynamicFrame
